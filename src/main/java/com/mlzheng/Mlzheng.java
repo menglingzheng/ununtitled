@@ -9,10 +9,6 @@ public class Mlzheng {
         System.out.println("xiaoming");
         System.out.println("nihao");
         System.out.println("nihao");
-        System.out.println("xiaoming");
-        System.out.println("nihao");
-        System.out.println("nihao");
-        System.out.println("xiaoming");
-        System.out.println("nihao");
+
     }
 }
